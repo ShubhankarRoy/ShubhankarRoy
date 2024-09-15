@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShubhankarRoy
 - 👀 I’m interested in Data
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data Analytics Projects
+- 🌱 I’m currently learning ML/AI
+- 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me https://www.linkedin.com/in/shubhankar-roy1207/
   
 <!---
